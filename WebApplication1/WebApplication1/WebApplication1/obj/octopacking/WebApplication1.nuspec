@@ -1,0 +1,163 @@
+<package>
+  <metadata>
+    <id>WebApplication1</id>
+    <version>0.0.0.0</version>
+    <authors>bjha</authors>
+    <owners>bjha</owners>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The WebApplication1 deployment package, built on 12/7/2016</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Areas\HelpPage\HelpPage.css" target="Areas\HelpPage\HelpPage.css" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Areas\HelpPage\Views\_ViewStart.cshtml" target="Areas\HelpPage\Views\_ViewStart.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Content\bootstrap-theme.css" target="Content\bootstrap-theme.css" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Content\bootstrap-theme.min.css" target="Content\bootstrap-theme.min.css" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Content\bootstrap.css" target="Content\bootstrap.css" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Content\bootstrap.min.css" target="Content\bootstrap.min.css" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Content\Site.css" target="Content\Site.css" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\favicon.ico" target="favicon.ico" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\fonts\glyphicons-halflings-regular.svg" target="fonts\glyphicons-halflings-regular.svg" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Global.asax" target="Global.asax" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\fonts\glyphicons-halflings-regular.woff2" target="fonts\glyphicons-halflings-regular.woff2" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\fonts\glyphicons-halflings-regular.woff" target="fonts\glyphicons-halflings-regular.woff" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\fonts\glyphicons-halflings-regular.ttf" target="fonts\glyphicons-halflings-regular.ttf" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\fonts\glyphicons-halflings-regular.eot" target="fonts\glyphicons-halflings-regular.eot" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Content\bootstrap-theme.css.map" target="Content\bootstrap-theme.css.map" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Content\bootstrap.css.map" target="Content\bootstrap.css.map" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Areas\HelpPage\Views\Web.config" target="Areas\HelpPage\Views\Web.config" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Areas\HelpPage\Views\Shared\_Layout.cshtml" target="Areas\HelpPage\Views\Shared\_Layout.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Areas\HelpPage\Views\Help\ResourceModel.cshtml" target="Areas\HelpPage\Views\Help\ResourceModel.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Areas\HelpPage\Views\Help\Index.cshtml" target="Areas\HelpPage\Views\Help\Index.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Areas\HelpPage\Views\Help\DisplayTemplates\TextSample.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\TextSample.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Areas\HelpPage\Views\Help\DisplayTemplates\SimpleTypeModelDescription.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\SimpleTypeModelDescription.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Areas\HelpPage\Views\Help\DisplayTemplates\Samples.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\Samples.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Areas\HelpPage\Views\Help\DisplayTemplates\Parameters.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\Parameters.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Areas\HelpPage\Views\Help\DisplayTemplates\ModelDescriptionLink.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\ModelDescriptionLink.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Areas\HelpPage\Views\Help\DisplayTemplates\KeyValuePairModelDescription.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\KeyValuePairModelDescription.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Areas\HelpPage\Views\Help\DisplayTemplates\InvalidSample.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\InvalidSample.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Areas\HelpPage\Views\Help\DisplayTemplates\ImageSample.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\ImageSample.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Areas\HelpPage\Views\Help\DisplayTemplates\HelpPageApiModel.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\HelpPageApiModel.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Areas\HelpPage\Views\Help\DisplayTemplates\EnumTypeModelDescription.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\EnumTypeModelDescription.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Areas\HelpPage\Views\Help\DisplayTemplates\DictionaryModelDescription.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\DictionaryModelDescription.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Areas\HelpPage\Views\Help\DisplayTemplates\ComplexTypeModelDescription.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\ComplexTypeModelDescription.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Areas\HelpPage\Views\Help\DisplayTemplates\CollectionModelDescription.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\CollectionModelDescription.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" target="Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Areas\HelpPage\Views\Help\Api.cshtml" target="Areas\HelpPage\Views\Help\Api.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\bootstrap.js" target="Scripts\bootstrap.js" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\bootstrap.min.js" target="Scripts\bootstrap.min.js" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\jquery-2.1.4.js" target="Scripts\jquery-2.1.4.js" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\jquery-2.1.4.min.js" target="Scripts\jquery-2.1.4.min.js" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\knockout-3.3.0.debug.js" target="Scripts\knockout-3.3.0.debug.js" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\knockout-3.3.0.js" target="Scripts\knockout-3.3.0.js" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\knockout.validation.js" target="Scripts\knockout.validation.js" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\knockout.validation.min.js" target="Scripts\knockout.validation.min.js" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\modernizr-2.8.3.js" target="Scripts\modernizr-2.8.3.js" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\respond.js" target="Scripts\respond.js" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\respond.matchmedia.addListener.js" target="Scripts\respond.matchmedia.addListener.js" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\respond.matchmedia.addListener.min.js" target="Scripts\respond.matchmedia.addListener.min.js" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\respond.min.js" target="Scripts\respond.min.js" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\sammy-0.7.5.js" target="Scripts\sammy-0.7.5.js" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\sammy-0.7.5.min.js" target="Scripts\sammy-0.7.5.min.js" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\_references.js" target="Scripts\_references.js" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\app\_run.js" target="Scripts\app\_run.js" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\app\app.datamodel.js" target="Scripts\app\app.datamodel.js" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\app\app.viewmodel.js" target="Scripts\app\app.viewmodel.js" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\app\common.js" target="Scripts\app\common.js" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\app\home.viewmodel.js" target="Scripts\app\home.viewmodel.js" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\_ViewStart.cshtml" target="Views\_ViewStart.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Account\ConfirmEmail.cshtml" target="Views\Account\ConfirmEmail.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Account\ExternalLoginConfirmation.cshtml" target="Views\Account\ExternalLoginConfirmation.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Account\ExternalLoginFailure.cshtml" target="Views\Account\ExternalLoginFailure.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Account\ForgotPassword.cshtml" target="Views\Account\ForgotPassword.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Account\ForgotPasswordConfirmation.cshtml" target="Views\Account\ForgotPasswordConfirmation.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Account\Login.cshtml" target="Views\Account\Login.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Account\Register.cshtml" target="Views\Account\Register.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Account\ResetPassword.cshtml" target="Views\Account\ResetPassword.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Account\ResetPasswordConfirmation.cshtml" target="Views\Account\ResetPasswordConfirmation.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Account\SendCode.cshtml" target="Views\Account\SendCode.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Account\VerifyCode.cshtml" target="Views\Account\VerifyCode.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Account\_ExternalLoginsListPartial.cshtml" target="Views\Account\_ExternalLoginsListPartial.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Home\_Home.cshtml" target="Views\Home\_Home.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Home\Index.cshtml" target="Views\Home\Index.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Manage\AddPhoneNumber.cshtml" target="Views\Manage\AddPhoneNumber.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Manage\ChangePassword.cshtml" target="Views\Manage\ChangePassword.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Manage\Index.cshtml" target="Views\Manage\Index.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Manage\ManageLogins.cshtml" target="Views\Manage\ManageLogins.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Manage\SetPassword.cshtml" target="Views\Manage\SetPassword.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Manage\VerifyPhoneNumber.cshtml" target="Views\Manage\VerifyPhoneNumber.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Shared\_Layout.cshtml" target="Views\Shared\_Layout.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Shared\Lockout.cshtml" target="Views\Shared\Lockout.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Shared\_LoginPartial.cshtml" target="Views\Shared\_LoginPartial.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Shared\Error.cshtml" target="Views\Shared\Error.cshtml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Views\Web.config" target="Views\Web.config" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Web.config" target="Web.config" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Web.Debug.config" target="Web.Debug.config" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Web.Release.config" target="Web.Release.config" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\jquery-2.1.4.min.map" target="Scripts\jquery-2.1.4.min.map" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Scripts\knockout.validation.min.js.map" target="Scripts\knockout.validation.min.js.map" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\Project_Readme.html" target="Project_Readme.html" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\WebApplication1.dll.config" target="bin\WebApplication1.dll.config" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\WebApplication1.dll" target="bin\WebApplication1.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\WebApplication1.pdb" target="bin\WebApplication1.pdb" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll" target="bin\Antlr3.Runtime.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\EntityFramework.dll" target="bin\EntityFramework.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll" target="bin\EntityFramework.SqlServer.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll" target="bin\Microsoft.AspNet.Identity.Core.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll" target="bin\Microsoft.AspNet.Identity.EntityFramework.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll" target="bin\Microsoft.AspNet.Identity.Owin.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll" target="bin\Microsoft.Owin.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll" target="bin\Microsoft.Owin.Host.SystemWeb.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll" target="bin\Microsoft.Owin.Security.Cookies.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll" target="bin\Microsoft.Owin.Security.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll" target="bin\Microsoft.Owin.Security.Facebook.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll" target="bin\Microsoft.Owin.Security.Google.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll" target="bin\Microsoft.Owin.Security.MicrosoftAccount.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll" target="bin\Microsoft.Owin.Security.OAuth.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll" target="bin\Microsoft.Owin.Security.Twitter.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll" target="bin\Microsoft.Web.Infrastructure.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll" target="bin\Newtonsoft.Json.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Owin.dll" target="bin\Owin.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll" target="bin\System.Net.Http.Formatting.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll" target="bin\System.Web.Helpers.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\System.Web.Http.dll" target="bin\System.Web.Http.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\System.Web.Http.Owin.dll" target="bin\System.Web.Http.Owin.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll" target="bin\System.Web.Http.WebHost.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll" target="bin\System.Web.Mvc.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll" target="bin\System.Web.Optimization.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\System.Web.Razor.dll" target="bin\System.Web.Razor.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll" target="bin\System.Web.WebPages.Deployment.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll" target="bin\System.Web.WebPages.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll" target="bin\System.Web.WebPages.Razor.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\WebGrease.dll" target="bin\WebGrease.dll" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb" target="bin\Antlr3.Runtime.pdb" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\EntityFramework.xml" target="bin\EntityFramework.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml" target="bin\EntityFramework.SqlServer.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml" target="bin\Microsoft.AspNet.Identity.Core.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml" target="bin\Microsoft.AspNet.Identity.EntityFramework.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml" target="bin\Microsoft.AspNet.Identity.Owin.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml" target="bin\Microsoft.Owin.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml" target="bin\Microsoft.Owin.Host.SystemWeb.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml" target="bin\Microsoft.Owin.Security.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml" target="bin\Microsoft.Owin.Security.Cookies.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml" target="bin\Microsoft.Owin.Security.Facebook.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml" target="bin\Microsoft.Owin.Security.Google.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml" target="bin\Microsoft.Owin.Security.MicrosoftAccount.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml" target="bin\Microsoft.Owin.Security.OAuth.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml" target="bin\Microsoft.Owin.Security.Twitter.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml" target="bin\Newtonsoft.Json.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml" target="bin\System.Net.Http.Formatting.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml" target="bin\System.Web.Helpers.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\System.Web.Http.xml" target="bin\System.Web.Http.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\System.Web.Http.Owin.xml" target="bin\System.Web.Http.Owin.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml" target="bin\System.Web.Http.WebHost.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml" target="bin\System.Web.Mvc.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\System.Web.Razor.xml" target="bin\System.Web.Razor.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml" target="bin\System.Web.WebPages.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml" target="bin\System.Web.WebPages.Deployment.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml" target="bin\System.Web.WebPages.Razor.xml" />
+    <file src="D:\OCTOPROJ\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml" target="bin\System.Web.Optimization.xml" />
+  </files>
+</package>

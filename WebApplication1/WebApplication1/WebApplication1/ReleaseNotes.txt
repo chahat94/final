@@ -1,0 +1,2 @@
+SonarQube Tests Result
+Changing some feature with 1.0.0.4 versions
